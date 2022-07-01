@@ -1,3 +1,6 @@
+body{
+  background-color: #676060;
+}
 form * {
   display: block;
   width: 80%;
